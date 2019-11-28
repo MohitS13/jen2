@@ -2,6 +2,6 @@
     "port":"9898",
     "host":"localhost",
     "database":"classwork",
-    "user":"root",
-    "password":"root"
+    "user":"dac",
+    "password":"dac"
 }

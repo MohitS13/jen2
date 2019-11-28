@@ -6,6 +6,7 @@
   "dependencies": {
     "config": "^3.2.4",
     "express": "^4.17.1",
+    "forever-monitor": "^1.7.1",
     "fs": "^0.0.1-security",
     "http": "^0.0.0",
     "joi": "^14.3.1",
